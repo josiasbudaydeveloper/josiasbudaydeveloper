@@ -4,7 +4,7 @@ Hi, my name is Josias Buday Dias, I'm from Brazil and I'm currently studying Ful
 
 PMERN means: PostGreSQL, MongoDB, Express.js and Node.js
 
-- I’m interested in Full Stack Development in the stack PMERN
+- I’m interested in Full Stack Jobs in the stack PMERN and I want to collaborate in repos with these techonologies too
 - I'm know Node.js, MongoDB, Express.js, HTML, CSS and JavaScript (you can view my repos to known what I know ;)
 - I’m currently learning React.js, Sequelize and TypeScript
 - My native language is Portuguese

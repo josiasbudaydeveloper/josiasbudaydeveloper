@@ -1,6 +1,6 @@
-# @josiasbudaydeveloper
+# josiasbudaydeveloper
 ## A Full-Stack JS development student
-Hi, my name is Josias Buday Dias and I'm currently studying Full-Stack JS development in the PMERN Stack.
+Hi, my name is Josias Buday Dias, I'm from Brazil and I'm currently studying Full-Stack JS development in the PMERN Stack.
 
 PMERN means: PostGreSQL, MongoDB, Express.js and Node.js
 

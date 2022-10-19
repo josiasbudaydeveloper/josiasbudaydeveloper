@@ -16,5 +16,6 @@ You can find me on:
 - 📞 **Whatsapp** or **Telegram**: +55 (014) 99690-8677
 - 🐤 **Twitter**: @jbudaydeveloper
 - 🌐 **LinkedIn**: Josias Buday Developer
+- 🤝 **Stack Overflow**: Josias Buday Developer
 
 This is my personal web page: https://josiasbudaydeveloper.github.io/

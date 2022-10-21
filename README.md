@@ -6,7 +6,7 @@
 
 - 👊 I’m interested in **Full Stack JS jobs** in the **PMERN Stack**
 - 🤝 I want to **collaborate** in **repos** with **these techonologies**
-- ✅ I know **Node.js, MongoDB, Express.js, HTML, CSS** and **JavaScript** (take a look at my repos to see what I know 😉)
+- ✅ I know **Node.js, MongoDB, Express.js, HTML, CSS, Bootstrap**and **JavaScript** (take a look at my repos to see what I know 😉)
 - 🤓 I’m currently learning **React.js, Sequelize** and **TypeScript**
 - 🏠 My native language is **Portuguese**
 - 🌎 My current **English** level is between **Intermediate** and **Advanced**

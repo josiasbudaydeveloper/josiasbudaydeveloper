@@ -13,7 +13,7 @@
 
 You can find me on:
 - 📧 **Email**: josiasbudaydeveloper@gmail.com
-- 📞 **Whatsapp** or **Telegram**: +55 (014) 99690-8677
+- 📞 **Whatsapp**: +55 (014) 99690-8677
 - 🐤 **Twitter**: @jbudaydeveloper
 - 🌐 **LinkedIn**: Josias Buday Developer
 <!-- - 🤝 **Stack Overflow**: Josias Buday Developer -->

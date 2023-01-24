@@ -1,21 +1,13 @@
 # josiasbudaydeveloper
-## A Full-Stack JS development student
-😃 Hi! My name is **Josias Buday Dias**, I'm from **Brazil** and I'm currently studying **Full-Stack JS development** in the **PMERN Stack**.
+## Full-Stack JS developer
+My name is Josias Buday Dias, I'm from Brazil and I'm currently studying Full-Stack JS development for the PMERN Stack (PostGreSQL, MongoDB, Express.js, React.js and Node.js), but I still need to study some techonologies, like PostGreSQL, Sequelize and React.js.
 
-**PMERN** means: **PostGreSQL, MongoDB, Express.js, React.js** and **Node.js**
+For now, I'm finishing my studies of development and preparing myself to apply for job vacancies and/or freelancing jobs.
 
-- 👊 I’m interested in **Full Stack JS jobs** in the **PMERN Stack**
-- 🤝 I want to **collaborate** in **repositories** with **these techonologies**
-- ✅ I know **Node.js, MongoDB, Express.js, HTML, CSS, Bootstrap** and **JavaScript** (take a look at my repos to see what I know 😉)
-- 🤓 I’m currently learning **React.js, Sequelize** and **TypeScript**
-- 🏠 My native language is **Portuguese**
-- 🌎 My current **English** level is between **Intermediate** and **Advanced**
-
-You can find me on:
+My current English Skills are intermediate, so I have some difficulties to talk by voice or video calls, but if you want to talk to me, these are the ways:
 - 📧 **Email**: josiasbudaydeveloper@gmail.com
 - 📞 **Whatsapp**: +55 (014) 99690-8677
-- 🐤 **Twitter**: @jbudaydeveloper
-- 🌐 **LinkedIn**: Josias Buday Developer
+<!-- - 🌐 **LinkedIn**: Josias Buday Developer -->
 <!-- - 🤝 **Stack Overflow**: Josias Buday Developer -->
 
-This is my personal web page: https://josiasbudaydeveloper.github.io/
+This is my web page: https://josiasbudaydeveloper.github.io/

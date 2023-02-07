@@ -4,7 +4,7 @@ My name is Josias Buday Dias, I'm from Brazil and I'm currently studying Full-St
 
 For now, I'm finishing my studies of development and preparing myself to apply for job vacancies and/or freelancing jobs.
 
-My current English Skills are intermediate, so I have some difficulties to talk by voice or video calls, but if you want to talk to me, these are the ways:
+My current English Skills are intermediate, so I have some difficulties with grammarly principally, but if you want to talk to me, these are the ways:
 - 📧 **Email**: josiasbudaydeveloper@gmail.com
 - 📞 **Whatsapp**: +55 (014) 99690-8677
 - 🐦 Twitter: @jbudaydeveloper

@@ -7,7 +7,7 @@ For now, I'm finishing my studies of development and preparing myself to apply f
 My current English Skills are intermediate, so I have some difficulties with grammarly, mainly, but if you want to talk to me, these are the ways:
 - 📧 **Email**: josiasbudaydeveloper@gmail.com
 - 📞 **Whatsapp**: +55 (014) 99690-8677
-- 🐦 Twitter: @jbudaydeveloper
+<!-- - 🐦 Twitter: @jbudaydeveloper -->
 <!-- - 🌐 **LinkedIn**: Josias Buday Developer -->
 <!-- - 🤝 **Stack Overflow**: Josias Buday Developer -->
 

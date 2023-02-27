@@ -1,14 +1,32 @@
-# josiasbudaydeveloper
-## Full-Stack JS developer
-My name is Josias Buday Dias, I'm from Brazil and I'm currently studying Full-Stack JS development for the PMERN Stack (PostGreSQL, MongoDB, Express.js, React.js and Node.js), but I still need to study some techonologies, like PostGreSQL, Sequelize and React.js.
+# Josias Buday Dias
+## A Full-Stack JS development student
+Hi, my name's Josias Buday Dias. I'm 23 years old and I'm from Brazil. I'm currently studying superior technological course in Analisys and Systems Development at Universidade Estácio de Sá. In addition, I'm studying Full Stack JavaScript (JS) development since I started the superior course at 02/2021.
 
-For now, I'm finishing my studies of development and preparing myself to apply for job vacancies and/or freelancing jobs.
+I consider myself as a intermediate-to-advanced English speaker.
 
-My current English Skills are intermediate, so I have some difficulties with grammarly, mainly, but if you want to talk to me, these are the ways:
-- 📧 **Email**: josiasbudaydeveloper@gmail.com
-- 📞 **Whatsapp**: +55 (014) 99690-8677
-<!-- - 🐦 Twitter: @jbudaydeveloper -->
-<!-- - 🌐 **LinkedIn**: Josias Buday Developer -->
-<!-- - 🤝 **Stack Overflow**: Josias Buday Developer -->
+## My techonologies
+### These are these are the main technologies I currently know:
+#### Front-End
+  - HTML 5 
+  - CSS 3 
+  - JavaScript 
+  - Bootstrap
 
-This is my web page: https://josiasbudaydeveloper.github.io/
+#### Back-End
+  - Node.js
+  - Express.js
+  - TypeScript
+
+#### Data Base
+  - MongoDB
+
+#### DevOps
+  - Git
+
+## Other skills
+### These are some of other skills I currently know:
+  - TDD (Test Driven Development)
+  - Microservices Architecture
+
+### Thanks for visit-me!
+> This is my web page: https://josiasbudaydeveloper.github.io/

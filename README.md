@@ -28,5 +28,12 @@ I consider myself as a intermediate-to-advanced English speaker.
   - TDD (Test Driven Development)
   - Microservices Architecture
 
+---
+
 ### Thanks for visit-me!
-> This is my web page: https://josiasbudaydeveloper.github.io/
+This is my web page: https://josiasbudaydeveloper.github.io/
+
+#### These are my contacts:
+  - LinkedIn: [Josias Buday Dias](https://www.linkedin.com/in/josias-buday-dias-b5a3a2253/)
+  - Email: josiasbudaydeveloper@gmail.com
+  - WhatsApp: [+55 (14) 996908677](https://wa.me/5514996908677)

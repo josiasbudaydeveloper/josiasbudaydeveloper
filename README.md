@@ -16,12 +16,20 @@ I consider myself as an intermediate-to-advanced English speaker.
   - Node.js
   - Express.js
   - TypeScript
+  - Jest
+  - Sequelize
+  - GraphQL
 
 #### Data Base
   - MongoDB
+  - PostGreSQL
+  - MySQL / MariaDB
 
 #### DevOps
   - Git
+  - GitHub
+  - Docker
+  - Kubernetes
 
 ## Other skills
 ### These are some of other skills I currently know:

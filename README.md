@@ -18,7 +18,6 @@ I consider myself as an intermediate-to-advanced English speaker.
   - TypeScript
   - Jest
   - Sequelize
-  - GraphQL
 
 #### Data Base
   - MongoDB
@@ -28,8 +27,6 @@ I consider myself as an intermediate-to-advanced English speaker.
 #### DevOps
   - Git
   - GitHub
-  - Docker
-  - Kubernetes
 
 ## Other skills
 ### These are some of other skills I currently know:

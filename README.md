@@ -28,6 +28,11 @@ I consider myself as an intermediate-to-advanced English speaker.
 #### DevOps
   - Git
   - GitHub
+<!--   - Docker -->
+
+<!-- #### Deploy
+  - Amazon Web Services
+  - Microsoft Azure -->
 
 ## Other skills
 ### These are some of other skills I currently know:

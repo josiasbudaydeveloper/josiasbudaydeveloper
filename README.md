@@ -11,6 +11,7 @@ I consider myself as an intermediate-to-advanced English speaker.
   - CSS 3 
   - JavaScript 
   - Bootstrap
+  - React.js
 
 #### Back-End
   - Node.js

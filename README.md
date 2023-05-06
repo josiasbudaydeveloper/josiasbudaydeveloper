@@ -1,6 +1,6 @@
 # Josias Buday Dias
-## A Full-Stack JS development student
-Hi, my name's Josias Buday Dias. I'm 23 years old and I'm from Brazil. I'm currently studying superior technological course in Analisys and Systems Development at Universidade Estácio de Sá. In addition, I'm studying Full Stack JavaScript (JS) development since I started the superior course at 02/2021.
+## A Full-Stack JS Developer
+Hi, my name's Josias Buday Dias. I'm from Brazil. I'm currently studying superior technological course in Analisys and Systems Development at Universidade Estácio de Sá. In addition, I'm studying Full Stack JavaScript (JS) development since I started the superior course at 02/2021.
 
 I'm currently an A2 Level English speaker.
 

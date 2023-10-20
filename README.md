@@ -1,8 +1,8 @@
 # Josias Buday Dias
 ## A Full-Stack JS Developer
-Hi, my name's Josias Buday Dias. I'm from Brazil. I'm currently studying superior technological course in Analisys and Systems Development at Universidade Estácio de Sá. In addition, I'm studying Full Stack JavaScript (JS) development since I started the superior course at 02/2021.
+Hi, my name's Josias Buday Dias. I'm from Brazil. I'm graduate of Superior Technological Course in Analisys and Systems Development at Universidade Estácio de Sá (Digital University from Rio de Janeiro, Brasil). In addition, I'm studying and practicing Full Stack JS Development since 02/2021.
 
-I'm currently an A2 Level English speaker.
+I'm currently at A2-B1 Level English speaker.
 
 ## My techonologies
 ### These are these are the main technologies I currently know:
@@ -12,10 +12,12 @@ I'm currently an A2 Level English speaker.
   - JavaScript 
   - Bootstrap
   - React.js
+  - NextJS 13 (Pages Router until now)
 
 #### Back-End
   - Node.js
   - Express.js
+  - NextJS's API Routes (Pages Router until now)
   - TypeScript
   - Jest
   - Sequelize
@@ -44,7 +46,7 @@ I'm currently an A2 Level English speaker.
 ### Thanks for visit-me!
 This is my web page: https://josiasbudaydeveloper.github.io/
 
-#### These are my contacts:
+#### If you want to talk with me, these are my contacts:
   - LinkedIn: [Josias Buday Dias](https://www.linkedin.com/in/josias-buday-dias-b5a3a2253/)
   - Email: josiasbudaydeveloper@gmail.com
   - WhatsApp: [+55 (14) 996908677](https://wa.me/5514996908677)

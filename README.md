@@ -12,12 +12,11 @@ I'm currently at A2-B1 Level English speaker.
   - JavaScript 
   - Bootstrap
   - React.js
-  - NextJS 13 (Pages Router until now)
+  - NextJS 13 (only the Pages Router for now)
 
 #### Back-End
   - Node.js
   - Express.js
-  - NextJS's API Routes (Pages Router until now)
   - TypeScript
   - Jest
   - Sequelize

@@ -13,6 +13,7 @@ I'm currently at A2-B1 Level English speaker.
   - Bootstrap
   - React.js
   - Tailwind.css
+  - CSS Modules
   - Next.js (Both Pages and App Router)
 
 #### Back-End

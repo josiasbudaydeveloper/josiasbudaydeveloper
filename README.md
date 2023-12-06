@@ -1,8 +1,15 @@
 # Josias Buday Dias
 ## A Full-Stack JS Developer
-Hi, my name's Josias Buday Dias. I'm from Brazil. I'm graduate of Superior Technological Course in Analisys and Systems Development at Universidade Estácio de Sá (Digital University from Rio de Janeiro, Brasil). In addition, I'm studying and practicing Full Stack JS Development since 02/2021.
+Hi, my name's Josias Buday Dias. I'm 24 years old and I'm from Brazil. I have a degree in Systems Analysis and Development from Universidade Estácio de Sá, a technological higher education course that is similar to an associate's degree
 
-I'm currently at A2-B1 Level English speaker.
+Currenly, I'm studying and doing the Next.js 14's Official Tutorial, a beautiful and responsive SPA (Single Page Application) Dashboard, totally based on the Next.js's App Router feature and all the main features of a complete application:
+
+- Authentication,
+- Serverless
+- PostGreSQL on Vercel
+- Pagination
+
+I consider myself at the B1 to B2 of English Speaking Level.
 
 ## My techonologies
 ### These are these are the main technologies I currently know:

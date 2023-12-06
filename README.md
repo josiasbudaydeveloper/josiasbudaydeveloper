@@ -9,7 +9,8 @@ I'm currently at A2-B1 Level English speaker.
 #### Front-End
   - HTML 5 
   - CSS 3 
-  - JavaScript 
+  - JavaScript
+  - TypeScript
   - Bootstrap
   - React.js
   - Tailwind.css
@@ -25,17 +26,12 @@ I'm currently at A2-B1 Level English speaker.
 
 #### Data Base
   - MongoDB
-  - PostGreSQL
+  - PostGreSQL (including Vercel PostGres)
   - MySQL / MariaDB
 
 #### DevOps
   - Git
   - GitHub
-<!--   - Docker -->
-
-<!-- #### Deploy
-  - Amazon Web Services
-  - Microsoft Azure -->
 
 ## Other skills
 ### These are some of other skills I currently know:
@@ -51,3 +47,4 @@ This is my web page: https://josiasbudaydeveloper.github.io/
   - LinkedIn: [Josias Buday Dias](https://www.linkedin.com/in/josias-buday-dias-b5a3a2253/)
   - Email: josiasbudaydeveloper@gmail.com
   - WhatsApp: [+55 (14) 996908677](https://wa.me/5514996908677)
+  - Telegram: [+55 (14) 996908677](https://t.me/Josias_Buday)

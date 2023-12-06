@@ -9,7 +9,7 @@ Currenly, I'm studying and doing the Next.js 14's Official Tutorial, a beautiful
 - PostGreSQL on Vercel
 - Pagination
 
-I consider myself at the B1 English Speaking Level.
+I consider myself at the B1 English Speaking Level, but I'm always improving my English skills, through ChatGPT (Bing AI) and through watching tutorials in English on YouTube.
 
 ## My techonologies
 ### These are these are the main technologies I currently know:

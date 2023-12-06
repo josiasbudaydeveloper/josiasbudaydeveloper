@@ -41,7 +41,7 @@ I'm currently at A2-B1 Level English speaker.
 ---
 
 ### Thanks for visit-me!
-This is my web page: https://josiasbudaydeveloper.github.io/
+This is my personal web page: https://josiasbudaydeveloper.github.io/
 
 #### If you want to talk with me, these are my contacts:
   - LinkedIn: [Josias Buday Dias](https://www.linkedin.com/in/josias-buday-dias-b5a3a2253/)

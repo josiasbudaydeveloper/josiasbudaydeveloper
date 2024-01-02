@@ -25,7 +25,7 @@ I consider myself at the **B1 English Speaking Level**, but I'm always improving
   - React.js
   - Tailwind.css
   - CSS Modules
-  - Next.js (Both Pages and App Router)
+  - Next.js 14 (Both Pages and App Router)
 
 #### Back-End
   - Node.js

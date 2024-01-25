@@ -1,18 +1,26 @@
 # Josias Buday Dias
 ## A Full-Stack JS Developer
-Hi, my name's Josias Buday Dias. I'm 24 years old and I'm from Brazil. I have a degree in Systems Analysis and Development from Universidade Estácio de Sá, a technological higher education course that is similar to an associate's degree
+Full Stack React/Next Developer with TypeScript.
 
-Currenly, I'm studying and doing the Next.js 14's Official Tutorial, a beautiful and responsive SPA (Single Page Application) Dashboard, totally based on the Next.js's App Router feature and all the main features of a complete application:
+In summary, I'm capable of develop:
 
-- Authentication,
-- Serverless
-- PostGreSQL on Vercel
-- Pagination
+Complete Full-Stack Systems with Next.js 14's App Router:
+- Many Pages with a beautiful Responsive Web Design that are Single Page Applications (SPA) and 
+ counts with a good SEO
+- Searching bar feature based on search params
+- Pagination 
+- Dark Mode with Tailwind.css
+- Authentication with Auth.js and JWT tokens stored on the browser's cookies
+- Database connection that could be pretty much any relational database and MongoDB
+- Hosting it on Vercel or on more advanced cloud providers, in case of necessity
 
-I consider myself at the **B1 English Speaking Level**, but I'm always improving my English skills, through: 
-  - Asking ChatGPT (mainly Bing AI)
-  - Reading Documentation and Articles in English
-  - Watching video tutorials in English on YouTube.
+Advanced Back-End Systems with Express.js:
+- RestFul API's with JWT authentication
+- Automated Tests with Jest
+
+API's:
+- I have some experience of working with the OpenAI's API using the ChatGPT's GPT-3.5-PLUS model
+- I also have some experience of studying how does the Zabbix API works (based on JSON information sent with the POST HTTP Method), also known as JSON RPC (Remote Procedure Call).
 
 ## My techonologies
 ### These are these are the main technologies I currently know:

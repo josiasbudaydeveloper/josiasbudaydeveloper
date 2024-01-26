@@ -69,6 +69,8 @@ API's:
   * [visit repo on GitHub](https://github.com/josiasbudaydeveloper/LuizTools-Node.js-MongoDB)
 - A Full Stack JS project I did partially (for now), during the Web Full Stack JS Course by LuizTools and DLZ Tecnologia. Even this project is incomplete in terms of all of its features, there are two completely developed API's built with Express, Sequelize and TypeScript there you can check out. Its Front-End is based on React.js and React-Bootstrap v5.
   * [Visit repo on GitHub](https://github.com/josiasbudaydeveloper/LuizTools-Web-Full-Stack-JS)
+- ChatBot AI Based (based on the ChatGPT API):
+  * [Visit repo on GitHub](https://github.com/josiasbudaydeveloper/cloudwalk-self-driven-bank-gpt-chatbot)
 
 ---
 

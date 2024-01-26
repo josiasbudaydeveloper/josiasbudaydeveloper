@@ -51,10 +51,24 @@ API's:
   - Git
   - GitHub
 
-## Other skills
+## Other Skills
 ### These are some of other skills I currently know:
   - TDD (Test Driven Development)
   - Microservices Architecture
+
+## My Projects
+### These are some of the projects I developed
+## The online ones
+- Next.js 13's Official Pages Router Tutorial: [Visit](https://josiasbudaydeveloper-blog-app.vercel.app/)
+- JavaScript Mastery's HooBank Tutorial: [Visit](https://josiasbudaydeveloper-beautiful-responsive-web-design.vercel.app/)
+- Next.js 14's App Router Tutorial:
+  * I turned it into a full Micro-sass Multitenant with Dark Mode based on the browser preference and with OAuth authentication, in addition to the normal credentials authentication.
+  * [Visit](https://josiasbudaydeveloper-next-14-dashboard-app.vercel.app/)
+## The Offline Ones
+- Projects made during a course of Back-End development with Node.js, Express, MongoDB and Microservices I did in 2022:
+  * [visit repo on GitHub](https://github.com/josiasbudaydeveloper/LuizTools-Node.js-MongoDB)
+- A Full Stack JS project I did partially (for now), during the Web Full Stack JS Course by LuizTools and DLZ Tecnologia. Even this project is incomplete in terms of all of its features, there are two completely developed API's built with Express, Sequelize and TypeScript there you can check out. Its Front-End is based on React.js and React-Bootstrap v5.
+  * [Visit repo on GitHub](https://github.com/josiasbudaydeveloper/LuizTools-Web-Full-Stack-JS)
 
 ---
 

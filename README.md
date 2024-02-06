@@ -5,6 +5,7 @@ Full Stack React/Next Developer with TypeScript.
 In summary, I'm capable of develop:
 
 Complete Full-Stack Systems with Next.js 14's App Router:
+- Server Actions and Router Handlers
 - Many Pages with a beautiful Responsive Web Design that are Single Page Applications (SPA) and 
  counts with a good SEO
 - Searching bar feature based on search params
@@ -15,10 +16,10 @@ Complete Full-Stack Systems with Next.js 14's App Router:
 - Hosting it on Vercel or on more advanced cloud providers, in case of necessity
 
 Advanced Back-End Systems with Express.js:
-- RestFul API's with JWT authentication
+- RestFul APIs with JWT authentication
 - Automated Tests with Jest
 
-API's:
+APIs:
 - I have some experience of working with the OpenAI's API using the ChatGPT's GPT-3.5-PLUS model
 - I also have some experience of studying how does the Zabbix API works (based on JSON information sent with the POST HTTP Method), also known as JSON RPC (Remote Procedure Call).
 

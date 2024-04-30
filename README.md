@@ -30,12 +30,8 @@ Main skills:
 ChatGPT and Microsoft Copilot (which has speech and image recognition, as well as
 image generation via prompt)
 
-### Learning: 
-- Cross Platform development with React Native (Expo)
-- PayloadJS for Content Management and its integration with the Stripe payment gateway
-
 ### Languages: 
-- English - Intermediate (ready for writting and reading)
+- English B1 - Intermediate: https://cert.efset.org/CsLdCH
 - Portuguese - Native
 ---
 

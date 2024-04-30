@@ -36,6 +36,10 @@ image generation via prompt)
 ---
 
 ### Thanks for visiting me!
+I'm currently **looking for a job**.
+
+This is my CV: https://docs.google.com/document/d/1EGWjHB5KhHXdI9thR4rtA4H-hRUB8J4BwbeNhXSjsO8/edit?usp=sharing
+
 This is my personal web page: https://josiasbudaydeveloper.github.io/
 
 #### If you want to talk with me, these are my contacts:

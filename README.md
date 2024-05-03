@@ -10,7 +10,6 @@ Botucatu, State of São Paulo, Brazil
 - LinkedIn: https://www.linkedin.com/in/josias-buday-dias-b5a3a2253
 - GitHub: https://github.com/josiasbudaydeveloper
 - PortFolio: https://josiasbudaydeveloper.github.io
-- CV: https://docs.google.com/document/d/1EGWjHB5KhHXdI9thR4rtA4H-hRUB8J4BwbeNhXSjsO8/edit?usp=sharing
 
 ### PROFESSIONAL SUMMARY
 Hello, I am Josias Buday Dias, a passionate and proficient Junior Full Stack Developer from Brazil. With a solid

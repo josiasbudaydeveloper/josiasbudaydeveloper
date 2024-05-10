@@ -7,7 +7,7 @@ Botucatu, State of São Paulo, Brazil
 ### CONTACT
 - WhatsApp / Telegram: +55 (14) 99690-8677
 - Email: josiasbudaydeveloper@gmail.com
-- LinkedIn: https://www.linkedin.com/in/josias-buday-dias-b5a3a2253
+- LinkedIn: https://www.linkedin.com/in/josias-buday-dias
 - GitHub: https://github.com/josiasbudaydeveloper
 - PortFolio: https://josiasbudaydeveloper.github.io
 

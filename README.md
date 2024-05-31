@@ -20,7 +20,7 @@ in diverse environments.
 ### SKILLS
 HTML5 | CSS3 | JavaScript | TypeScript | Bootstrap 5 | React-Bootstrap 5 | Tailwind.css | Node.js |
 React.js | Next.js 14 | Auth.js 4 | Express.js 4 | JWT | Jest | TDD | Microservices Architecture |
-MongoDB | SQL | Git | GitHub
+MongoDB | SQL | Git | GitHub | Docker (CLI, Desktop, Compose and Watch)
 
 ### GENERATIVE ARTIFICIAL INTELLIGENCES: 
 ChatGPT and Microsoft Copilot (which has speech and image recognition, as well as

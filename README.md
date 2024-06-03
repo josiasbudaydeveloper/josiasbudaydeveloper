@@ -8,7 +8,8 @@ Botucatu, State of São Paulo, Brazil
 - WhatsApp / Telegram: +55 (14) 99690-8677
 - Email: josiasbudaydeveloper@gmail.com
 - LinkedIn: https://www.linkedin.com/in/josias-buday-dias
-- PortFolio: https://josiasbudaydeveloper.github.io
+- Portfolio: https://josiasbudaydeveloper.github.io
+- Curriculum: https://www.canva.com/design/DAGFFxqSNPs/eOYpY2Xrhi8T6CCyImwwGA/view?utm_content=DAGFFxqSNPs&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ### PROFESSIONAL SUMMARY
 Hello, I am Josias Buday Dias, a passionate and proficient Junior Full Stack Developer from Brazil. With a solid

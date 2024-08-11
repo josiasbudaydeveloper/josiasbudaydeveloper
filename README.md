@@ -6,16 +6,8 @@
 
 # Josias Buday Dias
 ## Full Stack Web Developer
-Botucatu, State of São Paulo, Brazil
-
+Botucatu, State of São Paulo, Brazil <br />
 **Status:** Open to Work!
-
-### CONTACT
-- WhatsApp / Telegram: +55 (14) 99690-8677
-- Email: josiasbudaydeveloper@gmail.com
-- LinkedIn: https://www.linkedin.com/in/josias-buday-dias
-- Portfolio: https://josiasbudaydeveloper.github.io
-- Curriculum: https://www.canva.com/design/DAGFFxqSNPs/eOYpY2Xrhi8T6CCyImwwGA/view?utm_content=DAGFFxqSNPs&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ### PROFESSIONAL SUMMARY
 Hello, I am Josias Buday Dias, a passionate and proficient Junior Full Stack Developer from Brazil. With a solid
@@ -80,5 +72,12 @@ image generation via prompt)
 - English B2 - Upper-Intermediate: [EF SET Certificate](https://cert.efset.org/CsLdCH)
 - Portuguese - Native
 ---
+
+### CONTACT
+- WhatsApp / Telegram: +55 (14) 99690-8677
+- Email: josiasbudaydeveloper@gmail.com
+- LinkedIn: https://www.linkedin.com/in/josias-buday-dias
+- Portfolio: https://josiasbudaydeveloper.github.io
+- Curriculum: https://www.canva.com/design/DAGFFxqSNPs/eOYpY2Xrhi8T6CCyImwwGA/view?utm_content=DAGFFxqSNPs&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ### Thanks for visiting me!

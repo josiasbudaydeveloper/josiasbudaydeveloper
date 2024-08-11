@@ -74,10 +74,9 @@ image generation via prompt)
 ---
 
 ### CONTACT
-- WhatsApp / Telegram: +55 (14) 99690-8677
 - Email: josiasbudaydeveloper@gmail.com
 - LinkedIn: https://www.linkedin.com/in/josias-buday-dias
 - Portfolio: https://josiasbudaydeveloper.github.io
-- Curriculum: https://www.canva.com/design/DAGFFxqSNPs/eOYpY2Xrhi8T6CCyImwwGA/view?utm_content=DAGFFxqSNPs&utm_campaign=designshare&utm_medium=link&utm_source=editor
+- Curriculum: [click here to check it out](https://docs.google.com/document/d/1NkPYxelwkRQ_xbx_3dhp1UopBLn8nc2EuPTzQnz_vXc/edit?usp=sharing)
 
 ### Thanks for visiting me!

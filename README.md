@@ -77,6 +77,6 @@ image generation via prompt)
 - Email: josiasbudaydeveloper@gmail.com
 - LinkedIn: https://www.linkedin.com/in/josias-buday-dias
 - Portfolio: https://josiasbudaydeveloper.github.io
-- Curriculum: [click here to check it out](https://docs.google.com/document/d/1NkPYxelwkRQ_xbx_3dhp1UopBLn8nc2EuPTzQnz_vXc/edit?usp=sharing)
+- Curriculum: [click here to check it out](https://docs.google.com/document/d/1EGWjHB5KhHXdI9thR4rtA4H-hRUB8J4BwbeNhXSjsO8/edit?usp=sharing)
 
 ### Thanks for visiting me!

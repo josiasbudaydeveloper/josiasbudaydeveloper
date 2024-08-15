@@ -10,10 +10,11 @@ Botucatu, State of São Paulo, Brazil <br />
 **Status:** Open to Work!
 
 ### PROFESSIONAL SUMMARY
-Hello, I am Josias Buday Dias, a passionate and proficient Junior Full Stack Developer from Brazil. With a solid
-educational foundation and certifications, I bring hands-on experience in Node.js, TypeScript, Express.js,
-React.js, and Next.js. My proficiency in English is at a B1 - Intermediate level, enabling effective communication
-in diverse environments.
+Hello, I am Josias Buday Dias, a passionate and proficient Full Stack Developer from Brazil. With a solid educational foundation and certifications, I bring hands-on experience in Node.js, TypeScript, Express.js, React.js, and Next.js. My proficiency in English is at a B2 - Upper-Intermediate level, enabling effective communication in diverse environments in both written and spoken language.
+
+### HIRE ME
+I'm available for both freelancing and formal jobs. Please check out my website:
+https://josiasbudaydeveloper.github.io
 
 ###
 

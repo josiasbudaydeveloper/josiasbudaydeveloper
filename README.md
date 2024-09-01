@@ -5,7 +5,7 @@
 ###
 
 # Josias Buday Dias
-## Full-Stack React Web Developer, Designer, Digital Marketer and Philosopher
+## Full-Stack React Web Developer, Designer, Digital Marketer and Therapist
 Botucatu, State of São Paulo, Brazil <br />
 **Status:** Open to Work!
 

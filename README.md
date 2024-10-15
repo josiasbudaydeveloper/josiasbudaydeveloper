@@ -16,9 +16,9 @@ My English proficiency is B2 - pre-advanced level, allowing good communication i
 
 I am also a self-taught person in the Human Sciences, with an emphasis on Austrian Economics, Philosophy, and Spirituality, as well as their applications in mental and emotional health, social relationships, and the professional area, which strengthens my skills as a designer and marketer.
 
-### HIRE ME
+<!-- ### HIRE ME
 I'm available for both freelancing and formal jobs. Please check out my website:
-https://josiasbudaydeveloper.github.io
+https://josiasbudaydeveloper.github.io -->
 
 ###
 
@@ -81,7 +81,8 @@ image generation via prompt)
 ### CONTACT
 - Email: josiasbudaydeveloper@gmail.com
 - LinkedIn: https://www.linkedin.com/in/josias-buday-dias
-- Portfolio: https://josiasbudaydeveloper.github.io
+- WhatsApp / Telegram: +55 014 99690-8677
+<!-- - Portfolio: https://josiasbudaydeveloper.github.io -->
 <!-- - Curriculum: [click here to check it out](https://docs.google.com/document/d/1EGWjHB5KhHXdI9thR4rtA4H-hRUB8J4BwbeNhXSjsO8/edit?usp=sharing) -->
 
 ### Thanks for visiting me!

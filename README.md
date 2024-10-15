@@ -7,7 +7,7 @@
 # Josias Buday Dias
 ## Full-Stack React Web Developer, Designer, and Digital Marketer
 Botucatu, State of São Paulo, Brazil <br />
-**Status:** Open to Work!
+**Status:** only open to freelas.
 
 ### PROFESSIONAL SUMMARY
 Hello, welcome to my profile. I am a passionate and proficient Full Stack developer with a solid educational background and good certifications. I bring practical experience in Node.js, TypeScript, Express.js, React.js, and Next.js.

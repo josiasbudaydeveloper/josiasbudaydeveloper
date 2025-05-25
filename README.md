@@ -5,12 +5,12 @@
 ###
 
 # Josias Buday Dias
-## Full-Stack React Web Developer, Designer, and Digital Marketer
+## Full Stack Cross-Platform developer (Java, Next.js and React Native); UI Designer (Figma); Graphical Designer (Canva).
 Botucatu, State of São Paulo, Brazil <br />
 **Status:** only open to freelas.
 
 ### PROFESSIONAL SUMMARY
-Hello, welcome to my profile. I am a passionate and proficient Full Stack developer with a solid educational background and good certifications. I bring practical experience in Node.js, TypeScript, Express.js, React.js, and Next.js.
+Hello, welcome to my profile. I am a passionate and proficient Full Stack Cross-Platform developer with a solid educational background and good certifications. I bring practical experience in Node.js, TypeScript, Express.js, React.js, and Next.js.
 
 My English proficiency is B2 - pre-advanced level, allowing good communication in different professional and informal environments, both oral and written.
 
@@ -39,6 +39,7 @@ https://josiasbudaydeveloper.github.io -->
 ### SKILLS
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />

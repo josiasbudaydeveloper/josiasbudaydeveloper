@@ -1,6 +1,6 @@
-<div align="center">
+[div align="center">
   <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQGRZiGu2i7rUg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728004969409?e=1734566400&v=beta&t=K-zSS4zVX7fvWx72_8onqU47Gi2g2X-q1EtefdPKw4g"  />
-</div>
+</div>]
 
 ###
 
@@ -41,6 +41,7 @@ https://josiasbudaydeveloper.github.io -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />

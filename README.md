@@ -1,6 +1,6 @@
-<!-- div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQGRZiGu2i7rUg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728004969409?e=1734566400&v=beta&t=K-zSS4zVX7fvWx72_8onqU47Gi2g2X-q1EtefdPKw4g"  />
-</div> -->
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQGRZiGu2i7rUg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728004969409?e=1755129600&v=beta&t=4JyR4rQb-yBvw1QZe_Pe1p7wf62OtykOB50JiI7j7WA"  />
+</div>
 
 ###
 
@@ -10,11 +10,9 @@ Botucatu, State of São Paulo, Brazil <br />
 **Status:** only open to freelas.
 
 ### PROFESSIONAL SUMMARY
-Hello, welcome to my profile. I am a passionate and proficient Full Stack Cross-Platform developer with a solid educational background and good certifications. I bring practical experience in Node.js, TypeScript, Express.js, React.js, and Next.js.
+i, I'm Josias Buday Dias, a passionate and proficient Universal Full Stack Developer. With a solid educational background and certifications, I bring practical experience in Node.js, TypeScript, Express.js, React.js, Next.js, and React Native, enabling the development of web and mobile (Android/iOS) applications with a single codebase. I also have intermediate knowledge of Java, including Object-Oriented Programming and Threads. My B2 English proficiency and a robust project portfolio demonstrate my ability to deliver efficient, high-quality solutions.
 
-My English proficiency is B2 - pre-advanced level, allowing good communication in different professional and informal environments, both oral and written.
-
-I am also a self-taught person in the Human Sciences, with an emphasis on Austrian Economics, Philosophy, and Spirituality, as well as their applications in mental and emotional health, social relationships, and the professional area, which strengthens my skills as a designer and marketer.
+With B2 (upper-intermediate) English skills, I can communicate effectively in various professional and academic settings. I've relied on my English for years, both orally and in writing, to further my studies and collaborate with international professionals.
 
 <!-- ### HIRE ME
 I'm available for both freelancing and formal jobs. Please check out my website:

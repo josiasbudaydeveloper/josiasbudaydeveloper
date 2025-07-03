@@ -10,8 +10,6 @@
 - Full-Stack with React Function Components and Next.js App Router
 - Back-End Developer with NodeJS, ExpressJS
 
-Botucatu, State of São Paulo, Brazil <br />
-
 ### PROFESSIONAL SUMMARY
 With a solid educational background and certifications, I bring practical experience in Node.js, TypeScript, Express.js, React.js, Next.js, and React Native, enabling the development of web and mobile (Android/iOS) applications with a single codebase. I also have intermediate knowledge of Java, including Object-Oriented Programming and Threads. My B2 English proficiency and a robust project portfolio demonstrate my ability to deliver efficient, high-quality solutions.
 
@@ -85,6 +83,7 @@ image generation via prompt)
 - Email: josiasbudaydeveloper@gmail.com
 - LinkedIn: https://www.linkedin.com/in/josias-buday-dias
 - WhatsApp / Telegram: +55 014 99690-8677
+- City: Botucatu, State of São Paulo, Brazil
 <!-- - Portfolio: https://josiasbudaydeveloper.github.io -->
 <!-- - Curriculum: [click here to check it out](https://docs.google.com/document/d/1EGWjHB5KhHXdI9thR4rtA4H-hRUB8J4BwbeNhXSjsO8/edit?usp=sharing) -->
 

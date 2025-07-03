@@ -5,10 +5,10 @@
 ###
 
 # Josias Buday Dias
-## Universal app developer
-- Back-End Developer with NodeJS, ExpressJS
-- Full-Stack with React Function Components and Next.js App Router
+## Cross-Platform Application Developer
 - Android, iOS & Web with React Native and Expo
+- Full-Stack with React Function Components and Next.js App Router
+- Back-End Developer with NodeJS, ExpressJS
 
 Botucatu, State of São Paulo, Brazil <br />
 

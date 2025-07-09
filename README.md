@@ -5,15 +5,20 @@
 ###
 
 # Josias Buday Dias
-## Cross-Platform Application Developer
-- Android, iOS & Web with React Native and Expo
-- Full-Stack with React Function Components and Next.js App Router
+## Multiplatform Application Developer
+- Android, iOS, and Web with React Native and Expo
 - Back-End Developer with NodeJS, ExpressJS
 
-### PROFESSIONAL SUMMARY
-With a solid educational background and certifications, I bring practical experience in Node.js, TypeScript, Express.js, React.js, Next.js, and React Native, enabling the development of web and mobile (Android/iOS) applications with a single codebase. I also have intermediate knowledge of Java, including Object-Oriented Programming and Threads. My B2 English proficiency and a robust project portfolio demonstrate my ability to deliver efficient, high-quality solutions.
+**Currently Studying:**
+- Firebase
+- Stripe
+- Automated testing for Expo and Firebase
+- Fraktal (a payment gateway that allows working with BDM Digital currency)
 
-With B2 (upper-intermediate) English skills, I can communicate effectively in various professional and academic settings. I've relied on my English for years, both orally and in writing, to further my studies and collaborate with international professionals.
+### PROFESSIONAL SUMMARY
+With a solid educational background and certifications, I bring practical experience in Node.js, TypeScript, Express.js, React.js, Next.js, and React Native, enabling the development of web and mobile (Android/iOS) applications with a single codebase. My B2 English proficiency and a robust project portfolio demonstrate my ability to deliver efficient and high-quality solutions.
+
+With B2 English skills (upper-intermediate level), I can communicate effectively in various professional and academic environments. I have relied on my English for years, both speaking and writing, to further my studies and collaborate with international professionals.
 
 <!-- ### HIRE ME
 I'm available for both freelancing and formal jobs. Please check out my website:

@@ -5,22 +5,24 @@
 ###
 
 # Josias Buday Dias
+## Back-End, Web, Android and iOS developer
 
-## Hello world
-With a solid educational background and certifications, I bring practical experience in Node.js, TypeScript, Express.js, React.js, Next.js, and React Native, enabling the development of web and mobile (Android/iOS) applications with a single codebase. My B2 English proficiency and a robust project portfolio demonstrate my ability to deliver efficient and high-quality solutions.
+## About Me
+With a solid educational background and certifications, I bring practical experience in Node.js, TypeScript, Express.js, React.js, Next.js, and React Native, enabling the development of web and mobile (Android/iOS) applications from a single codebase. My B2 English proficiency and a robust project portfolio demonstrate my ability to deliver efficient, high-quality solutions.
 
-With B2 English skills (upper-intermediate level), I can communicate effectively in various professional and academic environments. I have relied on my English for years, both speaking and writing, to further my studies and collaborate with international professionals.
+I leverage my B2 English skills (upper-intermediate level) for effective communication in diverse professional and academic environments. I've relied on my English for years, both speaking and writing, to advance my studies and collaborate seamlessly with international professionals.
 
-## My Stack
-### Multiplatform Application Developer
+## Technical Expertise
+### Multiplatform Application Development:
 - Android, iOS, and Web with React Native and Expo
-- Back-End Developer with NodeJS, ExpressJS
+### Back-End Development:
+- Node.js and Express.js
 
-**Currently Studying:**
+### Currently Expanding My Skills In:
 - Firebase
 - Stripe
 - Automated testing for Expo and Firebase
-- Fraktal (a payment gateway that allows working with BDM Digital currency)
+- Fraktal (a payment gateway for BDM Digital currency)
 
 <!-- ### HIRE ME
 I'm available for both freelancing and formal jobs. Please check out my website:

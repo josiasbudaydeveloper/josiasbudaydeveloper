@@ -37,13 +37,6 @@ https://josiasbudaydeveloper.github.io -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josiasbudaydeveloper&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Views on my profile:
-<div align="center">
-  <img src="https://profile-counter.glitch.me/josiasbudaydeveloper/count.svg?"  />
-</div>
-
-###
-
 ### SKILLS
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />

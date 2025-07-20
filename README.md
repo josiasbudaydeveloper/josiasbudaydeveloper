@@ -84,7 +84,7 @@ image generation via prompt)
 ### CONTACT
 - Email: josiasbudaydeveloper@gmail.com
 - LinkedIn: https://www.linkedin.com/in/josias-buday-dias
-- WhatsApp / Telegram: +55 014 99690-8677
+/* - WhatsApp / Telegram: +55 014 99690-8677 */
 - City: Botucatu, State of São Paulo, Brazil
 <!-- - Portfolio: https://josiasbudaydeveloper.github.io -->
 <!-- - Curriculum: [click here to check it out](https://docs.google.com/document/d/1EGWjHB5KhHXdI9thR4rtA4H-hRUB8J4BwbeNhXSjsO8/edit?usp=sharing) -->

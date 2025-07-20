@@ -30,7 +30,7 @@ I have a B2 (Upper-Intermediate) English level, which allows me to communicate f
 - Fraktal (a payment gateway that works with BDM Digital criptocurrency)
 
 ### CONTACT
-- Email: contact.josiasbudaydeveloper@gmail.com
+- Email: josiasbudaydeveloper@gmail.com
 - LinkedIn: https://www.linkedin.com/in/josias-buday-dias
 <!-- - WhatsApp / Telegram: +55 014 99690-8677 -->
 - City: Botucatu, State of São Paulo, Brazil

@@ -27,7 +27,7 @@ I have a B2 (Upper-Intermediate) English level, which allows me to communicate f
 ### Currently Expanding My Skills In:
 - Firebase
 - Stripe
-- Fraktal (a payment gateway that works with BDM Digital criptocurrency)
+- Fraktal (a payment gateway that works with BDM Digital cryptocurrency)
 
 ### CONTACT
 - Email: josiasbudaydeveloper@gmail.com

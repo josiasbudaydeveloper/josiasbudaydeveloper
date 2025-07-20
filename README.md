@@ -8,13 +8,13 @@
 ## Back-End, Web, Android and iOS developer
 
 ## About Me
-I'm a software developer focused on simplicity, comprehensiveness, and delivery efficiency. That's why I've chosen to specialize in modern technologies based on Node.js and React.js, which allow me to achieve significant results with minimal effort, delivering high-quality, scalable, and secure software.
+I'm a software developer focused on simplicity, comprehensiveness, and efficient delivery. That's why I've specialized in modern technologies based on Node.js and React.js, which enable me to achieve significant results with minimal effort, delivering high-quality, scalable, and secure software.
 
-Currently, I'm deepening my expertise in the React Native with Expo ecosystem. This enables me to create applications capable of running on various platforms, using a single codebase, including iOS (the iPhone's operating system), even without owning a MacBook.
+Currently, I'm diving deeper into the React Native with Expo ecosystem. This allows me to build applications that run seamlessly across multiple platforms, using a single codebase, including iOS (the iPhone's operating system), even though I don't own a MacBook.
 
-On the back-end, I'm specializing in the Firebase + Google Cloud ecosystem. With Firebase, it's incredibly straightforward to implement features like authentication (with credentials or social media), real-time communication (like a chat, for instance), file storage, and serverless functions (to handle business logic), in addition to integrated analytics and artificial intelligence functionalities. Firebase is very affordable, secure, simple to implement (front-end SDK and automatic GitHub deployment), and offers automatic scalability, plus a local emulator for testing without cost risks or exceeding free plan limitations. As for Google Cloud, it seamlessly integrates with Firebase services, even for sending less critical data to storage systems better suited for that type of information.
+On the back-end, I'm specializing in the Firebase + Google Cloud ecosystem. With Firebase, it's straightforward to implement features like authentication (with credentials or social media), real-time communication (like a chat), file storage, and serverless functions (to handle business logic), plus integrated analytics and artificial intelligence capabilities. Firebase is highly cost-effective, secure, simple to implement (with a front-end SDK and automatic GitHub deployment), and offers automatic scalability, along with a local emulator for risk-free testing within free plan limits. Google Cloud integrates effortlessly with Firebase services, perfect for migrating older data to more suitable storage systems.
 
-My English level is B2 (Upper-Intermediate), which is ideal for professional or academic conversations, both spoken and written. To be honest, as long as it's spoken clearly, I have no problems. I'm constantly reading documentation, watching tutorials and courses in English, and conversing with international friends.
+I have a B2 (Upper-Intermediate) English level, which allows me to communicate fluently in professional and academic settings. I consistently stay updated by consuming technical content in English and interacting with international colleagues.
 
 ## Technical Expertise
 ### Multiplatform Application Development:
@@ -27,7 +27,7 @@ My English level is B2 (Upper-Intermediate), which is ideal for professional or 
 ### Currently Expanding My Skills In:
 - Firebase
 - Stripe
-- Fraktal (a payment gateway for BDM Digital currency)
+- Fraktal (a payment gateway that works with BDM Digital criptocurrency)
 
 <!-- ### HIRE ME
 I'm available for both freelancing and formal jobs. Please check out my website:

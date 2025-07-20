@@ -8,20 +8,25 @@
 ## Back-End, Web, Android and iOS developer
 
 ## About Me
-With a solid educational background and certifications, I bring practical experience in Node.js, TypeScript, Express.js, React.js, Next.js, and React Native, enabling the development of web and mobile (Android/iOS) applications from a single codebase. My B2 English proficiency and a robust project portfolio demonstrate my ability to deliver efficient, high-quality solutions.
+I'm a software developer focused on simplicity, comprehensiveness, and delivery efficiency. That's why I've chosen to specialize in modern technologies based on Node.js and React.js, which allow me to achieve significant results with minimal effort, delivering high-quality, scalable, and secure software.
 
-I leverage my B2 English skills (upper-intermediate level) for effective communication in diverse professional and academic environments. I've relied on my English for years, both speaking and writing, to advance my studies and collaborate seamlessly with international professionals.
+Currently, I'm deepening my expertise in the React Native with Expo ecosystem. This enables me to create applications capable of running on various platforms, using a single codebase, including iOS (the iPhone's operating system), even without owning a MacBook.
+
+On the back-end, I'm specializing in the Firebase + Google Cloud ecosystem. With Firebase, it's incredibly straightforward to implement features like authentication (with credentials or social media), real-time communication (like a chat, for instance), file storage, and serverless functions (to handle business logic), in addition to integrated analytics and artificial intelligence functionalities. Firebase is very affordable, secure, simple to implement (front-end SDK and automatic GitHub deployment), and offers automatic scalability, plus a local emulator for testing without cost risks or exceeding free plan limitations. As for Google Cloud, it seamlessly integrates with Firebase services, even for sending less critical data to storage systems better suited for that type of information.
+
+My English level is B2 (Upper-Intermediate), which is ideal for professional or academic conversations, both spoken and written. To be honest, as long as it's spoken clearly, I have no problems. I'm constantly reading documentation, watching tutorials and courses in English, and conversing with international friends.
 
 ## Technical Expertise
 ### Multiplatform Application Development:
 - Android, iOS, and Web with React Native and Expo
+### Front-End Development:
+- React & Next.js
 ### Back-End Development:
 - Node.js and Express.js
 
 ### Currently Expanding My Skills In:
 - Firebase
 - Stripe
-- Automated testing for Expo and Firebase
 - Fraktal (a payment gateway for BDM Digital currency)
 
 <!-- ### HIRE ME

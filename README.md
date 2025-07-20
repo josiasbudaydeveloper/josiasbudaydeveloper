@@ -5,7 +5,7 @@
 ###
 
 # Josias Buday Dias
-## Back-End, Web, Android and iOS developer
+## Full-Stack Developer (Node.js, Express, React & Next.js) and Cross-Platform Mobile Developer (React Native & Expo) for Web, Android, and iOS.
 
 ## About Me
 I'm a software developer focused on simplicity, comprehensiveness, and efficient delivery. That's why I've specialized in modern technologies based on Node.js and React.js, which enable me to achieve significant results with minimal effort, delivering high-quality, scalable, and secure software.

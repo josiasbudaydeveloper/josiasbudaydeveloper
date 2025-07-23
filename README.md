@@ -17,23 +17,23 @@ On the back-end, I'm specializing in the Firebase + Google Cloud ecosystem. With
 I have a B2 (Upper-Intermediate) English level, which allows me to communicate fluently in professional and academic settings. I consistently stay updated by consuming technical content in English and interacting with international colleagues.
 
 ## Technical Expertise
-### Multiplatform Application Development:
-- Android, iOS, and Web with React Native and Expo
-### Front-End Development:
-- React & Next.js
-### Back-End Development:
-- Node.js and Express.js
+- **Web**: JavaScript, TypeScript, HTML, CSS, Tailwind.css, React.js, Next.js;
+- **Back-End**: Node.js, Express, Jest;
+- **Cross-platform (Web, Android e iOS)**: React Native & Expo;
+- **Database**: SQL, MongoDB.
 
 ### Currently Expanding My Skills In:
 - Firebase
 - Stripe
+- React Native Testing Library
+- Maestro
 - Fraktal (a payment gateway that works with BDM Digital cryptocurrency)
 
 ### CONTACT
-- Email: josiasbudaydeveloper@gmail.com
-- LinkedIn: https://www.linkedin.com/in/josias-buday-dias
+- **Email**: josiasbudaydeveloper@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/josias-buday-dias
 <!-- - WhatsApp / Telegram: +55 014 99690-8677 -->
-- City: Botucatu, State of São Paulo, Brazil
+- **City**: Botucatu, State of São Paulo, Brazil
 <!-- - Portfolio: https://josiasbudaydeveloper.github.io -->
 <!-- - Curriculum: [click here to check it out](https://docs.google.com/document/d/1EGWjHB5KhHXdI9thR4rtA4H-hRUB8J4BwbeNhXSjsO8/edit?usp=sharing) -->
 

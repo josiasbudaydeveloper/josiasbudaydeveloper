@@ -5,29 +5,49 @@
 ###
 
 # Josias Buday Dias
-## Full-Stack Developer (Node.js, Express, React & Next.js) and Cross-Platform Mobile Developer (React Native & Expo) for Web, Android, and iOS.
+## Full-Stack React Native Developer
 
-## About Me
+## About me:
 I'm a software developer focused on simplicity, comprehensiveness, and efficient delivery. That's why I've specialized in modern technologies based on Node.js and React.js, which enable me to achieve significant results with minimal effort, delivering high-quality, scalable, and secure software.
 
-Currently, I'm diving deeper into the React Native with Expo ecosystem. This allows me to build applications that run seamlessly across multiple platforms, using a single codebase, including iOS (the iPhone's operating system), even though I don't own a MacBook.
+I'm  fluent in English, which allows me to communicate fluently in professional and academic settings. I consistently stay updated by consuming technical content in English and interacting with international colleagues.
 
-On the back-end, I'm specializing in the Firebase + Google Cloud ecosystem. With Firebase, it's straightforward to implement features like authentication (with credentials or social media), real-time communication (like a chat), file storage, and serverless functions (to handle business logic), plus integrated analytics and artificial intelligence capabilities. Firebase is highly cost-effective, secure, simple to implement (with a front-end SDK and automatic GitHub deployment), and offers automatic scalability, along with a local emulator for risk-free testing during the development phase. Google Cloud integrates effortlessly with Firebase services, perfect for migrating older data to more suitable storage systems.
+## Technical Expertise:
+- HTML
+- CSS
+- Tailwind.css
+- JavaScript
+- TypeScript
+- Node.js
+- Express
+- Jest
+- TDD
+- React
+- Next.js
+- React Native
+- Expo
+- Expo-Router
+- React Native Paper
+- Git
+- GitHub
+- JWT
+- OAuth 2
+- SQL
+- NoSQL with MongoDB
+- AI
+- Google Gemini
+- OpenAI ChatGPT
+- Microsoft Copilot
 
-I have a B2 (Upper-Intermediate) English level, which allows me to communicate fluently in professional and academic settings. I consistently stay updated by consuming technical content in English and interacting with international colleagues.
+## Languages:
+- Native Portuguese;
+- English fluency;
 
-## Technical Expertise
-- **Web**: JavaScript, TypeScript, HTML, CSS, Tailwind.css, React.js, Next.js;
-- **Back-End**: Node.js, Express, Jest;
-- **Cross-platform (Web, Android e iOS)**: React Native & Expo;
-- **Database**: SQL, MongoDB.
-
-### Currently Expanding My Skills In:
+## Currently Expanding My Skills In:
 - Firebase
 - Stripe
 - React Native Testing Library
 - Maestro
-- Fraktal (a payment gateway that works with BDM Digital cryptocurrency)
 
 ### CONTACT
 - **Email**: josiasbudaydeveloper@gmail.com

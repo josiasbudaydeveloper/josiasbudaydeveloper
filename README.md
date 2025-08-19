@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQGRZiGu2i7rUg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728004969409?e=1755129600&v=beta&t=4JyR4rQb-yBvw1QZe_Pe1p7wf62OtykOB50JiI7j7WA"  />
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQHNoeaiynVQMA/profile-displaybackgroundimage-shrink_350_1400/B4DZi_wjVZHYAc-/0/1755563834091?e=1758758400&v=beta&t=46Iovtqrzpd1TupOSLVSR63uAaoNUG-3L8Tb189ysns"  />
 </div>
 
 ###
 
 # Josias Buday Dias
-## Full-Stack React Native Developer
+## Full-Stack Software Engineer (Next.js and React Native)
 
 ## About me:
 I'm a software developer focused on simplicity, comprehensiveness, and efficient delivery. That's why I've specialized in modern technologies based on Node.js and React.js, which enable me to achieve significant results with minimal effort, delivering high-quality, scalable, and secure software.

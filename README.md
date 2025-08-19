@@ -13,41 +13,21 @@ I'm a software developer focused on simplicity, comprehensiveness, and efficient
 I'm  fluent in English, which allows me to communicate fluently in professional and academic settings. I consistently stay updated by consuming technical content in English and interacting with international colleagues.
 
 ## Technical Expertise:
-- HTML
-- CSS
-- Tailwind.css
-- JavaScript
-- TypeScript
-- Node.js
-- Express
-- Jest
-- TDD
-- React
-- Next.js
-- React Native
-- Expo
-- Expo-Router
-- React Native Paper
-- Git
-- GitHub
-- JWT
-- OAuth 2
-- SQL
-- NoSQL with MongoDB
-- AI
-- Google Gemini
-- OpenAI ChatGPT
-- Microsoft Copilot
+- **General:** Node.js, JavaScript, TypeScript, Git, GitHub;
+- **Front-End:** HTML, CSS, Tailwind.css, React, Next.js;
+- **Mobile:** React Native, Expo, Expo-Router, React Native Paper;
+- **Back-End:** Express, Jest, TDD, JWT, OAuth 2;
+- **Database:** SQL, NoSQL (MongoDB);
+- **AI:** Google Gemini, OpenAI ChatGPT, Microsoft Copilot.
 
 ## Languages:
 - Native Portuguese;
-- English fluency;
+- English fluency.
 
 ## Currently Expanding My Skills In:
-- Firebase
-- Stripe
-- React Native Testing Library
-- Maestro
+- **Firebase:** As the **back-end** solution for **freelancing** and **entrepreneurial**  projects;
+- **Stripe:** To enable **payment**, **onboarding**, and **payout** functionalities in **marketplaces**;
+- **Test Automation:** With **React Native Testing Library** for integration tests and **Maestro** for end-to-end tests.
 
 ### CONTACT
 - **Email**: josiasbudaydeveloper@gmail.com

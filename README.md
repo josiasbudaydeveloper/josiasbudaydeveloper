@@ -12,7 +12,7 @@ I'm a software developer focused on simplicity, comprehensiveness, and efficient
 
 I'm currenty working with React Native, which allows me to use my Node.js and React expertise to develop applications that can run on both Android, iOS and the Web using the same codebase.
 
-I'm  fluent in English, which allows me to communicate fluently in professional and academic settings. I consistently stay updated by consuming technical content in English and interacting with international colleagues.
+I'm  currently Upper-Intermediate (B2) in English, which allows me to communicate in professional and academic settings. I consistently stay updated by consuming technical content in English and interacting with international colleagues.
 
 ## Technical Expertise:
 - **General:** Node.js, JavaScript, TypeScript, Git, GitHub;

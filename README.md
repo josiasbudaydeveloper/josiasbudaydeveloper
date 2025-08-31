@@ -8,11 +8,11 @@
 ## Full-Stack Mobile Software Engineer (Next.js and React Native)
 
 ## About me:
-I'm a software developer focused on simplicity, comprehensiveness, and efficient delivery. That's why I've specialized in modern technologies based on Node.js and React.js, which enable me to achieve significant results with minimal effort, delivering high-quality, scalable, and secure software.
+As a software developer, I specialize in creating simple, comprehensive, and efficient solutions using modern technologies. My focus is on the Node.js and React.js ecosystems, which allows me to build high-quality, scalable, and secure applications with minimal effort.
 
-I'm currenty working with React Native, which allows me to use my Node.js and React expertise to develop applications that can run on both Android, iOS and the Web using the same codebase.
+Currently, I'm leveraging my expertise to develop cross-platform applications with React Native. This enables me to deliver a consistent experience across Android, iOS, and the web from a single codebase.
 
-I'm  currently Upper-Intermediate (B2) in English, which allows me to communicate in professional and academic settings. I consistently stay updated by consuming technical content in English and interacting with international colleagues.
+My English proficiency is at the Upper-Intermediate (B2) level, which allows me to communicate effectively in professional and academic environments. I maintain my skills by regularly consuming technical content and collaborating with international colleagues.
 
 ## Technical Expertise:
 - **General:** Node.js, JavaScript, TypeScript, Git, GitHub;

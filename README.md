@@ -8,7 +8,7 @@
 ## Full-Stack Mobile Software Engineer (Next.js and React Native)
 
 ## About me:
-As a software developer, I specialize in creating simple, comprehensive, and efficient solutions using modern technologies. My focus is on the Node.js and React.js ecosystems, which allows me to build high-quality, scalable, and secure applications with minimal effort.
+As a Full-Stack Mobile Software Engineer, I specialize in creating simple, comprehensive, and efficient solutions using modern technologies. My focus is on the Node.js and React.js ecosystems, which allows me to build high-quality, scalable, and secure applications with minimal effort.
 
 Currently, I'm leveraging my expertise to develop cross-platform applications with React Native. This enables me to deliver a consistent experience across Android, iOS, and the web from a single codebase.
 

@@ -39,9 +39,11 @@ My English proficiency is at the Upper-Intermediate (B2) level, which allows me 
 <!-- - Portfolio: https://josiasbudaydeveloper.github.io -->
 <!-- - Curriculum: [click here to check it out](https://docs.google.com/document/d/1EGWjHB5KhHXdI9thR4rtA4H-hRUB8J4BwbeNhXSjsO8/edit?usp=sharing) -->
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=josiasbudaydeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josiasbudaydeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josiasbudaydeveloper&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->

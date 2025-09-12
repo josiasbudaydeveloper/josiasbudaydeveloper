@@ -5,7 +5,7 @@
 ###
 
 # Josias Buday Dias
-## Full-Stack Mobile Software Engineer (React Native & Next.js)
+## React Native Cross-Platform Software Engineer (Web, Android and iOS)
 
 ## About me:
 As a Full-Stack Mobile Software Engineer, I specialize in creating simple, comprehensive, and efficient solutions using modern technologies. My focus is on the Node.js and React.js ecosystems, which allows me to build high-quality, scalable, and secure applications with minimal effort.

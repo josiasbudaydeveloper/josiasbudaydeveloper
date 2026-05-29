@@ -32,8 +32,8 @@ DevOps & Testing
 
 Beyond my startup, I offer specialized technical services and consulting for engineering teams and individuals:
 
-*   **⚡ Back-End Engineering:** Scalable architecture utilizing `Node.js`, `Express.js`, and `Supabase` (including PostgreSQL schema modeling and serverless Edge Functions execution).
 *   **📱 Mobile Development:** End-to-end iOS and Android development using `React Native` & `Expo`, focusing on high-performance cross-platform delivery, automated CI/CD pipelines, and robust testing.
+*   *   **⚡ Back-End Engineering:** Scalable architecture utilizing `Node.js`, `Express.js`, and `Supabase` (including PostgreSQL schema modeling and serverless Edge Functions execution).
 *   **🧠 IT & AI Architecture Consulting:** Tailored consulting for systems analysis, software architecture, modern AI integration pipelines, and optimizing developer workflows using **Spec-Driven Development**.
 *   **🐧 Linux Systems Consulting:** Specialized support for customized personal Linux environments, performance tuning, and development environment setups.
 

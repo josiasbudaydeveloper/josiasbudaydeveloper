@@ -13,7 +13,7 @@ I am co-founding a startup alongside a Senior Software Engineer. Our flagship pr
 * 🚀 **Tech Stack:** Supabase (PostgreSQL architecture) + Expo & React Native for an agile, high-performance cross-platform ecosystem.
 * 📈 **Data Engineering & AI:** Intelligent vector search, relational graphs, and upcoming AI integrations for deep post-MVP analysis.
 * 🛡️ **Database Architecture (In Progress):** Structuring relational schemas, performance indexing, and implementing robust Row-Level Security (RLS) policies prior to launch.
-* ⚙️ **Quality & Observability (Roadmap):** Setting up automated testing (Jest & React Native Testing Library), end-to-end testing with Maestro, and real-time crash monitoring with Sentry.
+* ⚙️ **Quality & Observability (Planned):** Setting up automated testing (Jest & React Native Testing Library), end-to-end testing with Maestro, and real-time crash monitoring with Sentry.
 * 🔄 **DevOps / CI-CD (Planned):** Automated pipelines via GitHub Actions to streamline mobile continuous deployment and manage Supabase serverless Edge Functions.
 * 📅 **Launch:** Scheduled to hit the Google Play Store and Apple App Store in the second semester of 2026.
 

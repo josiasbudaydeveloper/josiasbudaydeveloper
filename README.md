@@ -2,7 +2,7 @@
 
 I specialize in **TypeScript, React Native, React.js, Node.js, and Supabase**. 
 
-My differentiator lies in an advanced **Prompt Engineering** approach. I leverage context, intent, and architecture specifications to instruct AI agents, ensuring development remains strictly focused on the target audience, security, and scalability—delivering top-tier results in less time and at an optimized cost.
+My differentiator lies in an advanced **Prompt Engineering** approach. I leverage context, target audience vision, and tech/architecture specifications to instruct AI agents, ensuring development remains strictly focused on user experience, security, and scalability — delivering top-tier results in less time and at an optimized cost.
 
 ---
 

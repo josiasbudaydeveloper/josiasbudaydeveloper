@@ -1,6 +1,6 @@
 Since 2021, building practical experience in mobile and Full-Stack Software Development, with a strong focus on React Native, TypeScript, Expo, backend services and scalable product architecture. 
 
-Mobile apps, subscription flows, serverless backends, PostgreSQL data models, AI integrations and multi-tenant SaaS solutions connecting product, performance and engineering.
+I build apps, subscription flows, serverless backends, PostgreSQL data models, AI integrations and multi-tenant SaaS solutions connecting product, performance and engineering.
 
 If my journey were a flow, it would be: Front-End Development → React Native → Full Stack Mobile → Product-Oriented Mobile Engineering.
 

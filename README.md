@@ -1,6 +1,6 @@
 # Full-Stack Web And Mobile Cross-Platform Software Engineer
 
-![Full-Stack Web And Mobile Cross-Platform Software Engineer](https://media.licdn.com/dms/image/v2/D4D16AQFlBA-2y3uVwA/profile-displaybackgroundimage-shrink_350_1400/B4DaDy3XJ9K8AY-/0/1790780994431?e=1792627200&v=beta&t=aQe-RRn13ysoLdIEvo1KOTp0YvkSaBeZ-ooLfs6gQ3M)
+![Full-Stack Web And Mobile Cross-Platform Software Engineer](https://media.licdn.com/dms/image/v2/D4D16AQFlBA-2y3uVwA/profile-displaybackgroundimage-shrink_350_1400/B4DaDy3XJ9K8AY-/0/1790780994431?e=1795651200&v=beta&t=RUUqoyPEbdhw6AHpBsQAD_guEWOkqyrrbVj7FtTjS84)
 
 Since 2021, building practical experience in Mobile and Full-Stack Software Development, with a strong focus on React Native, TypeScript, Expo, backend services, and scalable product architecture.
 
